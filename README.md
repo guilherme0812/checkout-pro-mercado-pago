@@ -34,3 +34,7 @@ Agora rode o comando 'npm install' para instalar os pacotes que a aplicação ex
 npm install
 npm run dev
 ```
+
+### Screenshot da aplicação
+
+![Aplicação](public/images/screenshot.png)
